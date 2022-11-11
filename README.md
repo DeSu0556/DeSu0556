@@ -22,8 +22,6 @@
 
 </div>
 
-<hr />
-
 <p align="center">
    <a href="https://github.com/DeSu0556">
     <imgsrc="https://github-profile-trophy.vercel.app/?username=DeSu0556&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
@@ -31,6 +29,8 @@
 </p>
 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=DeSu0556&theme=react-dark" />
+
+<hr />
 
 <p align="center">
 
