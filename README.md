@@ -1,9 +1,9 @@
 ### Hi! 👋
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=desu0556&theme=tokyonight&show_icons=true&layout=compact&hide_border=true&locale=cn" height="160em" />
+  欢迎来到我的Github!
   <br/>
-  Hello!
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=desu0556&theme=tokyonight&show_icons=true&layout=compact&hide_border=true&locale=cn" height="160em" />
 </div>
 
 <br/>
