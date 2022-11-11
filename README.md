@@ -15,13 +15,13 @@
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeSu0556&theme=tokyonight&show_icons=true&layout=compact&hide_border=true" height="135em"/>
   
 <img src="https://github-readme-stats.vercel.app/api?username=DeSu0556&show_icons=true&theme=tokyonight&hide_border=true" alt="✨ DeSu0556's stars ✨" height="135em"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=DeSu0556&theme=tokyonight&hide_border=true&border_radius=3.5" alt="✨ DeSu0556's streak ✨" height="135em"/>
-
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeSu0556&theme=tokyonight&show_icons=true&layout=compact&hide_border=true" height="135em"/>
+ 
 </div>
 
 <p align="center">
