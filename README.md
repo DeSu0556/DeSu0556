@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeSu0556&theme=tokyonight&show_icons=true&layout=compact&hide_border=true&locale=cn" height="150em" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeSu0556&theme=tokyonight&show_icons=true&layout=compact&hide_border=true&locale=cn" height="160em" />
 
 你好！欢迎你来到我的GitHub，我正在创作各式各样的代码与爱，一起来看看吧~
 
@@ -61,10 +61,10 @@
 
 </p>
 
-<p align="center"><a href="https://github.com/DeSu0556">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=DeSu0556&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
-    />
-  </a></p>
+<p align="center">
+   <a href="https://github.com/DeSu0556">
+    <imgsrc="https://github-profile-trophy.vercel.app/?username=DeSu0556&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
+  </a>
+</p>
 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=DeSu0556&theme=react-dark" />
