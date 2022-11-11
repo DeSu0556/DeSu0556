@@ -3,12 +3,12 @@
   Hello!
 </div>
 
+<hr>
+
 <p align="center">
-  
 <a href="https://www.java.com/">
    <img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="java" width="60" height="60" />
 </a>
-  
     
 <a href="https://kotlinlang.org/">
    <img src="https://github.com/get-icon/geticon/raw/master/icons/kotlin.svg" alt="kotlin" width="60" height="60" />
@@ -22,8 +22,7 @@
    <img src="https://github.com/get-icon/geticon/raw/master/icons/gradle.svg" alt="maven" width="60" height="60" />
  </a>
  
-<a href="https://www.jetbrains.com/?from=simpler-robot">
+<a href="https://www.jetbrains.com/idea/">
    <img src="https://github.com/get-icon/geticon/raw/master/icons/intellij-idea.svg" alt="intellij-idea" width="60" height="60" />
 </a>
-
 </p>
