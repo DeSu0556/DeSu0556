@@ -68,26 +68,3 @@
   </a></p>
 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=DeSu0556&theme=react-dark" />
-
-<hr />
-
-<div align="center">
-  <p>
-  <a href="https://gitee.com/DeSu0556">
-    <img src="https://img.shields.io/badge/ForteSarlet-C71D23?style=for-the-badge&logo=gitee" />
-  </a>
-
-   <a href="https://github.com/DeSu0556">
-    <img src="https://img.shields.io/badge/ForteSarlet-181717?style=for-the-badge&logo=github" />
-  </a>
-
-   <a href="https://space.bilibili.com/2714954">
-    <img src="https://img.shields.io/badge/ForteSarlet-FFFFFF?style=for-the-badge&logo=Bilibili" />
-  </a>
-  </p>
-  <p><small><a href="mailto:DeSu0556@163.com">Call Me♥</a></small></p>
-
-  <p></p>
-
-</div>
-
