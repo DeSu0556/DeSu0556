@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeSu0556&theme=tokyonight&show_icons=true&layout=compact&hide_border=true&locale=cn" width="1000" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeSu0556&theme=tokyonight&show_icons=true&layout=compact&hide_border=true&locale=cn" width="500" />
 
 你好！欢迎你来到我的GitHub，我正在创作各式各样的代码与爱，一起来看看吧~
 
