@@ -25,6 +25,14 @@
 <hr />
 
 <p align="center">
+   <a href="https://github.com/DeSu0556">
+    <imgsrc="https://github-profile-trophy.vercel.app/?username=DeSu0556&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
+  </a>
+</p>
+
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=DeSu0556&theme=react-dark" />
+
+<p align="center">
 
 <a href="https://www.java.com/">
    <img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="java" width="60" height="60" />
@@ -58,11 +66,3 @@
 </a>
 
 </p>
-
-<p align="center">
-   <a href="https://github.com/DeSu0556">
-    <imgsrc="https://github-profile-trophy.vercel.app/?username=DeSu0556&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
-  </a>
-</p>
-
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=DeSu0556&theme=react-dark" />
