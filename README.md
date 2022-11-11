@@ -3,7 +3,8 @@
   Hello!
 </div>
 
-<hr>
+<br/>
+<hr/>
 
 <p align="center">
 <a href="https://www.java.com/">
