@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeSu0556&theme=tokyonight&show_icons=true&layout=compact&hide_border=true&locale=cn" height="160em" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeSu0556&theme=tokyonight&show_icons=true&layout=compact&hide_border=true" height="160em" />
   
 <img src="https://github-readme-stats.vercel.app/api?username=DeSu0556&show_icons=true&theme=tokyonight&hide_border=true&locale=cn" alt="✨ DeSu0556's stars ✨" height="135em"  />
 
