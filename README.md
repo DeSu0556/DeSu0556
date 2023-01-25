@@ -31,12 +31,12 @@
 <!--<img align="center" src="https://activity-graph.herokuapp.com/graph?username=DeSu0556&theme=react-dark" />-->
 
 <hr />
-
+<!--
 <p align="center">
 
-<!--<a href="https://www.java.com/">
+<a href="https://www.java.com/">
    <img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="java" width="60" height="60" />
-</a>-->
+</a>
 
 
 <a href="https://kotlinlang.org/">
@@ -44,9 +44,9 @@
 </a>
 
 
- <!--<a href="https://maven.apache.org/">
+ <a href="https://maven.apache.org/">
    <img src="https://github.com/get-icon/geticon/raw/master/icons/maven.svg" alt="maven" width="60" height="60" />
- </a>-->
+ </a>
 
  <a href="https://gradle.org/">
    <img src="https://github.com/get-icon/geticon/raw/master/icons/gradle.svg" alt="maven" width="60" height="60" />
@@ -66,3 +66,4 @@
 </a>
 
 </p>
+-->
