@@ -44,9 +44,9 @@
 </a>
 
 
- <a href="https://maven.apache.org/">
+ <!--<a href="https://maven.apache.org/">
    <img src="https://github.com/get-icon/geticon/raw/master/icons/maven.svg" alt="maven" width="60" height="60" />
- </a>
+ </a>-->
 
  <a href="https://gradle.org/">
    <img src="https://github.com/get-icon/geticon/raw/master/icons/gradle.svg" alt="maven" width="60" height="60" />
