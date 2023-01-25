@@ -34,9 +34,9 @@
 
 <p align="center">
 
-<a href="https://www.java.com/">
+<!--<a href="https://www.java.com/">
    <img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="java" width="60" height="60" />
-</a>
+</a>-->
 
 
 <a href="https://kotlinlang.org/">
