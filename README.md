@@ -28,7 +28,7 @@
   </a>
 </p>
 
-//<img align="center" src="https://activity-graph.herokuapp.com/graph?username=DeSu0556&theme=react-dark" />
+<!--<img align="center" src="https://activity-graph.herokuapp.com/graph?username=DeSu0556&theme=react-dark" />-->
 
 <hr />
 
