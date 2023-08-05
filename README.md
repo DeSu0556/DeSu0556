@@ -1,32 +1,26 @@
 ### Hi!
 
 <div>
-  
+
 > 今天又是摆烂的一天！
-  
+
 </div>
 
 <hr />
 
 <div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=DeSu0556&show_icons=true&theme=tokyonight&hide_border=true" alt="✨ DeSu0556's stars ✨" height="135em"/>
 
+   <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=DeSu0556&theme=tokyonight&hide_border=true&border_radius=3.5" alt="✨ DeSu0556's streak ✨" height="135em"/> -->
+   
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeSu0556&theme=tokyonight&show_icons=true&layout=compact&hide_border=true" height="135em"/>
+   
+   <p>
+      <a href="https://github.com/DeSu0556">
+       <img src="https://github-profile-trophy.vercel.app/?username=DeSu0556&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
+     </a>
+   </p>   
 </div>
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=DeSu0556&show_icons=true&theme=tokyonight&hide_border=true" alt="✨ DeSu0556's stars ✨" height="135em"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=DeSu0556&theme=tokyonight&hide_border=true&border_radius=3.5" alt="✨ DeSu0556's streak ✨" height="135em"/>
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeSu0556&theme=tokyonight&show_icons=true&layout=compact&hide_border=true" height="135em"/>
- 
-</div>
-
-<p align="center">
-   <a href="https://github.com/DeSu0556">
-    <imgsrc="https://github-profile-trophy.vercel.app/?username=DeSu0556&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
-  </a>
-</p>
 
 <!--<img align="center" src="https://activity-graph.herokuapp.com/graph?username=DeSu0556&theme=react-dark" />-->
 
