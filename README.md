@@ -2,7 +2,7 @@
 
 <div>
 
-> 今天又是摆烂的一天！
+> Today is another anxious day!
 
 </div>
 
