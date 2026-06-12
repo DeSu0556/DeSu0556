@@ -1,63 +1,59 @@
-### Hi!
+<div align="center">
 
-<div>
+# Hi, I'm DeSu0556
 
-> Today is another anxious day!
+**Kotlin / Android / Jetpack Compose**
+
+> Another anxious day, still building with Compose.
 
 </div>
 
-<hr />
+---
+
+### About me
+
+- Writing Android apps with **Kotlin** and **Jetpack Compose**.
+- Learning by building small, useful things.
+- Trying to keep both UI and code calm, readable, and comfortable.
+
+### Tech stack
+
+**Main focus**
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
+</p>
+
+**Also comfortable with**
+
+<p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+</p>
+
+---
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=DeSu0556&show_icons=true&theme=tokyonight&hide_border=true" alt="✨ DeSu0556's stars ✨" height="135em"/>
-
-   <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=DeSu0556&theme=tokyonight&hide_border=true&border_radius=3.5" alt="✨ DeSu0556's streak ✨" height="135em"/> -->
-   
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeSu0556&theme=tokyonight&show_icons=true&layout=compact&hide_border=true" height="135em"/>
-   
-   <p>
-      <a href="https://github.com/DeSu0556">
-       <img src="https://github-profile-trophy.vercel.app/?username=DeSu0556&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
-     </a>
-   </p>   
+  <img src="https://github-readme-stats.vercel.app/api?username=DeSu0556&show_icons=true&theme=tokyonight&hide_border=true" alt="DeSu0556's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeSu0556&theme=tokyonight&layout=compact&hide_border=true" alt="DeSu0556's top languages" height="150" />
 </div>
 
-<!--<img align="center" src="https://activity-graph.herokuapp.com/graph?username=DeSu0556&theme=react-dark" />-->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=DeSu0556&theme=tokyonight&hide_border=true" alt="DeSu0556's GitHub streak" />
+</div>
 
-<hr />
-<!--
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeSu0556&theme=tokyo-night&hide_border=true" alt="DeSu0556's GitHub activity graph" />
+</div>
 
-<a href="https://www.java.com/">
-   <img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="java" width="60" height="60" />
-</a>
-
-
-<a href="https://kotlinlang.org/">
-   <img src="https://github.com/get-icon/geticon/raw/master/icons/kotlin.svg" alt="kotlin" width="60" height="60" />
-</a>
-
-
- <a href="https://maven.apache.org/">
-   <img src="https://github.com/get-icon/geticon/raw/master/icons/maven.svg" alt="maven" width="60" height="60" />
- </a>
-
- <a href="https://gradle.org/">
-   <img src="https://github.com/get-icon/geticon/raw/master/icons/gradle.svg" alt="maven" width="60" height="60" />
- </a>
-
-
-<a href="https://www.jetbrains.com/idea/">
-   <img src="https://github.com/get-icon/geticon/raw/master/icons/intellij-idea.svg" alt="intellij-idea" width="60" height="60" />
-</a>
-
-<a href="https://www.jetbrains.com/">
-   <img src="https://github.com/get-icon/geticon/raw/master/icons/jetbrains.svg" alt="jetbrains" width="60" height="60" />
-</a>
-
-<a href="https://github.com/DeSu0556">
-   <img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="github" width="60" height="60" />
-</a>
-
-</p>
--->
+<div align="center">
+  <a href="https://github.com/DeSu0556">
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=DeSu0556&theme=onedark&no-frame=true&row=1&margin-w=20&no-bg=true" alt="DeSu0556's GitHub trophies" />
+  </a>
+</div>
